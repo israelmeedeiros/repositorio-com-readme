@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Projeto com README
 Um projeto de teste com um arquivo README 🚀
 
@@ -19,6 +19,3 @@ git clone <url>
 ``` 
 cd repositorio-com-readme
 ```
-=======
-# repositorio-com-readme
->>>>>>> 1b9a3698b31187042007ddb5553b0a12b19a73d5
